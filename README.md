@@ -4,6 +4,11 @@ Studer 169 EQ in API 500 format
 Original project by AUDIOX on GroupDIY
 * **Build thread on GroupDIY** [Studer 169 EQ in API 500 Format](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
+## Support my work
+If you found this PCB useful and want to support the development of future open-hardware projects, you can buy me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akrmusic)
+
 ## License
 This hardware project (PCB) is licensed under the **CERN-OHL-S v2**.
 You are free to copy, modify, and manufacture this design, provided that you distribute any derivative versions under the same license.
