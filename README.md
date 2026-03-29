@@ -21,7 +21,8 @@ Get your PCBs made with the exact specifications by using the official shared pr
 [![Order from PCBWay](https://www.pcbway.com/project/img/button.png)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
 
 > [!TIP]
-> **Prefer DIY?** You can also [Download the Gerber ZIP](assets/Gerbers.zip) to use with any manufacturer.
+> **Prefer DIY?** You can also Download the Gerber ZIP to use with any manufacturer.
+> [![Download Gerbers](https://img.shields.io/github/v/release/AKRbuilds/169EQ?label=Download%20Gerbers&style=for-the-badge&logo=github)](https://github.com/AKRbuilds/169EQ/releases/latest)
 
 ---
 
