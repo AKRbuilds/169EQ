@@ -7,5 +7,6 @@ You are free to copy, modify, and manufacture this design, provided that you dis
 
 ## Documentation
 * 📄 [PCB Assembly overview (PDF)](assets/assembly.pdf)
+* 📄 [ibom (HTML)](assets/ibom.html)
 
 ![PCB Preview](assets/preview.png)
