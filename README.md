@@ -1,9 +1,12 @@
 # 169EQ
 Studer 169 EQ in API 500 format
 
-  -Redraw of the schematics for a 2 sided board and integration of the jumpers on the top side.
-  -Added option for a 4PDT switch and the bypass LED. SPDT still usable as in the ordiginal design.
-  -You can choose between SMD LED + light pipe U5 or THT LED with jumper JP1.
+  - Redraw of the schematics for a 2 sided board and integration of the jumpers on the top side.
+  
+  - Added option for a 4PDT switch and the bypass LED. SPDT still usable as in the ordiginal design.
+  
+  - You can choose between SMD LED + light pipe U5 or THT LED with jumper JP1.
+  
   - Added jumpers JP2 and JP3 to be used if the TR1 transformer is not used.
 
 
@@ -11,7 +14,7 @@ Original project by AUDIOX on GroupDIY
 * **Build thread on GroupDIY** [Studer 169 EQ in API 500 Format](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
 ## Support my work
-If you found this work useful and want to support the development of future open-hardware projects, you can buy me a coffee!
+If you found this work useful and want to support the development of future projects, you can buy me a coffee!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akrmusic)
 
