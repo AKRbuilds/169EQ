@@ -44,7 +44,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 
 ## 🔗 Credits & Community
 * **Original Project:** Based on the design by **AUDIOX**.
-* **Join the Discussion:** [Build Thread on GroupDIY](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.45524/)
+* **Join the Discussion:** [Build Thread on GroupDIY](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
 ## 📜 License
 Licensed under **CERN-OHL-S v2**. 
