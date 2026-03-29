@@ -8,5 +8,6 @@ You are free to copy, modify, and manufacture this design, provided that you dis
 ## Documentation
 * 📄 [PCB Assembly overview (PDF)](assets/assembly.pdf)
 * 📄 [ibom (HTML)](assets/ibom.html)
+* [🌐 Open Interactive BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 
 ![PCB Preview](assets/preview.png)
