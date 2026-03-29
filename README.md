@@ -10,3 +10,4 @@ You are free to copy, modify, and manufacture this design, provided that you dis
 * [🌐 Open Interactive BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 
 ![PCB Preview](assets/preview.png)
+![PCB Preview](assets/preview_back.png)
