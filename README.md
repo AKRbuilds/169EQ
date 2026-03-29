@@ -26,7 +26,7 @@ Get your PCBs made with the exact specifications by using the official shared pr
 ---
 
 ## ✨ Improvements in this Version
-* **Redrawn Layout:** Optimized 2-layer board with top-side jumpers for cleaner signal paths.
+* **Redrawn Layout:** Optimized 2-layer board with top-side jumpers.
 * **4PDT Switch Support:** New footprint for 4PDT switches + Bypass LED (fully compatible with original SPDT).
 * **Smart LED Options:** Choose between **SMD + Light Pipe (U5)** or standard **THT LED** via jumper **JP1**.
 * **Transformer Flexibility:** Added **JP2 & JP3** to allow operation without the **TR1** transformer if desired.
@@ -34,7 +34,7 @@ Get your PCBs made with the exact specifications by using the official shared pr
 ---
 
 ## 📄 Full Documentation
-* 🛠️ **[LAUNCH INTERACTIVE BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
+* 🛠️ [LAUNCH INTERACTIVE BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 * 📄 [PCB Assembly Overview (PDF)](assets/assembly.pdf)
 * 📄 [KiCad Schematics (PDF)](assets/kicad_schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
