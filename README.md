@@ -7,22 +7,20 @@ This project is a reproduction of the **Studer 169 EQ** for the **API 500 series
 ---
 
 ## ❤️ Support the Development
-Redrawing this board took a couple of hours. If this project helps your studio or saves you time, **consider buying me a coffee!** Your support keeps this project and future ones open and updated.
+Redrawing this board took a couple of hours. If this project helps your studio or saves you time, **consider buying me a coffee!** Your support keeps me runing.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akrmusic)
 
 ---
 
 ## 🚀 One-Click Manufacturing
-Get your PCBs made with the exact specifications by using the official shared project link:
+Get your PCBs made with the exact specifications by using the official PCBWAY shared project link:
 
-<a href="https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+[![Order from PCBWay](https://img.shields.io/badge/Order_from-PCBWay-blue?style=for-the-badge&logo=pcbway&logoColor=white)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
 
-[![Order from PCBWay](https://www.pcbway.com/project/img/button.png)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
 
-> [!TIP]
-> **Prefer DIY?** You can also Download the Gerber ZIP to use with any manufacturer.
-> [![Download Gerbers](https://img.shields.io/github/v/release/AKRbuilds/169EQ?label=Download%20Gerbers&style=for-the-badge&logo=github)](https://github.com/AKRbuilds/169EQ/releases/latest)
+> **Prefer DIY?** You can also  [Download the Latest Gerber Files (ZIP)](https://github.com/AKRbuilds/169EQ/releases/latest) to use with any manufacturer.
+
 
 ---
 
