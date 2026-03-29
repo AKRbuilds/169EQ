@@ -35,7 +35,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 ## 📄 Full Documentation
 * 🛠️ [LAUNCH INTERACTIVE BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 * 📄 [PCB Assembly Overview (PDF)](assets/assembly.pdf)
-* 📄 [KiCad Schematics (PDF)](assets/kicad_schematics.pdf)
+* 📄 [KiCad Schematics (PDF)](assets/Schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
 * 📄 [Front Panel Guide (PDF)](assets/front_panel.pdf) | 📥 [Download FPD File](assets/front_panel.fpd)
 * 📄 [Supporting Hardware (PDF)](assets/hardware.pdf)
