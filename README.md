@@ -1,7 +1,6 @@
 # 169EQ
-Studer 169 EQ in API 500 format
+Studer 169 EQ in API 500 format based on original project by AUDIOX on GroupDIY
 
-Original project by AUDIOX on GroupDIY
 * **Build thread on GroupDIY** [Studer 169 EQ in API 500 Format](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
 * **Updates done for this version**
