@@ -33,7 +33,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 ---
 
 ## 📄 Full Documentation
-* 🛠️ [LAUNCH INTERACTIVE BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
+* 🛠️ Launch interactive BOM [**WITH** Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_with_neutrik.html) / [**WITHOUT** Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 * 📄 [PCB Assembly Overview (PDF)](assets/assembly.pdf)
 * 📄 [KiCad Schematics (PDF)](assets/Schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
