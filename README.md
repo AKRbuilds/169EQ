@@ -14,7 +14,9 @@ Redrawing this board took a couple of hours. If this project helps your studio o
 ---
 
 ## 🚀 One-Click Manufacturing
-Get your PCBs made with the exact professional specifications (thickness, copper weight, and finish) by using the official shared project link:
+Get your PCBs made with the exact specifications by using the official shared project link:
+
+<a href="https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 [![Order from PCBWay](https://www.pcbway.com/project/img/button.png)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
 
