@@ -5,7 +5,7 @@ Original project by AUDIOX on GroupDIY
 * **Build thread on GroupDIY** [Studer 169 EQ in API 500 Format](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
 ## Support my work
-If you found this PCB useful and want to support the development of future open-hardware projects, you can buy me a coffee!
+If you found this work useful and want to support the development of future open-hardware projects, you can buy me a coffee!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akrmusic)
 
