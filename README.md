@@ -27,6 +27,7 @@ You are free to copy, modify, and manufacture this design, provided that you dis
 * 📄 [Kicad Schematics (PDF)](assets/Schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
 * 📄 [Front Panel (PDF)](assets/front_panel.pdf)
+* 📄 [Supporting Hardware (PDF)](assets/hardware.pdf)
 * [🌐 Open Interactive BOM](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom.html)
 
 ![PCB Preview](assets/preview.png)
