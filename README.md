@@ -25,10 +25,10 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 ---
 
 ## ✨ Improvements in this Version
-* **Redrawn Layout:** Optimized 2-layer board with top-side jumpers.
+* **Redrawn Layout:** 2-layer board with top-side jumpers.
 * **4PDT Switch Support:** New footprint for 4PDT switches + Bypass LED (fully compatible with original SPDT).
-* **Smart LED Options:** Choose between **SMD + Light Pipe (U5)** or standard **THT LED** via jumper **JP1**.
-* **Transformer Flexibility:** Added **JP2 & JP3** to allow operation without the **TR1** transformer if desired.
+* **LED Options:** Choose between **SMD + Light Pipe (U5)** or standard **THT LED** via jumper **JP1**.
+* **Transformer Flexibility:** Added **JP2 & JP3** to be jump soldered for operation without the Neutrik transformer.
 
 ---
 
