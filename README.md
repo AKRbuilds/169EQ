@@ -7,7 +7,7 @@ This project is a reproduction of the **Studer 169 EQ** for the **API 500 series
 ---
 
 ## ❤️ Support the Development
-Redrawing this board took a couple of hours. If this project helps your studio or saves you time, **consider buying me a coffee!** Your support keeps me runing.
+Redrawing this board took quite some time. If this project helps your studio or saves you time, **consider buying me a coffee!** Your support keeps me runing.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/akrmusic)
 
@@ -19,7 +19,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 [![Order from PCBWay](https://img.shields.io/badge/Order_from-PCBWay-blue?style=for-the-badge&logo=pcbway&logoColor=white)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
 
 
-> **Prefer DIY?** You can also  [Download the Latest Gerber Files (ZIP)](https://github.com/AKRbuilds/169EQ/releases/latest) to use with any manufacturer.
+> You can also  [Download the Latest Gerber Files (ZIP)](https://github.com/AKRbuilds/169EQ/releases/latest) to use with any manufacturer.
 
 
 ---
@@ -48,4 +48,3 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 
 ## 📜 License
 Licensed under **CERN-OHL-S v2**. 
-*Free to share and manufacture, provided you credit the author and keep the same license.*
