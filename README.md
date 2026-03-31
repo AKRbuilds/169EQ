@@ -13,7 +13,7 @@ Redrawing this board took quite some time. If this project helps your studio or 
 
 ---
 
-## 🚀 One-Click Manufacturing
+## One-Click Manufacturing
 Get your PCBs made with the exact specifications by using the official PCBWAY shared project link:
 
 [![Order from PCBWay](https://img.shields.io/badge/Order_from-PCBWay-blue?style=for-the-badge&logo=pcbway&logoColor=white)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
@@ -24,7 +24,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 
 ---
 
-## ✨ Improvements in this Version
+## Improvements in this Version
 * **Redrawn Layout:** 2-layer board with top-side jumpers.
 * **4PDT Switch Support:** New footprint for 4PDT switches + Bypass LED (fully compatible with original SPDT).
 * **LED Options:** Choose between **SMD + Light Pipe (U5)** or standard **THT LED** via jumper **JP1**.
@@ -32,7 +32,7 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 ---
 
 ## 📄 Documentation
-* 🛠️ Launch interactive BOM [**WITH** Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_with_neutrik.html) / [**WITHOUT** 🔴 Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_without_neutrik.html)
+* 📄 Launch interactive BOM [**WITH** Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_with_neutrik.html) / [**WITHOUT** 🔴 Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_without_neutrik.html)
 * 📄 PCB Assembly Overview (PDF) [**WITH** Neutrik transformer](assets/Layout_with_neutrik.pdf) / [**WITHOUT** 🔴 Neutrik transformer](assets/Layout_without_neutrik.pdf) 
 * 📄 [KiCad Schematics (PDF)](assets/Schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
@@ -42,8 +42,8 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 ---
 
 ## 🔗 Credits & Community
-* **Original Project:** Based on the design by **AUDIOX**.
+* **Original Project:** Original design by **AUDIOX**.
 * **Join the Discussion:** [Build Thread on GroupDIY](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 
-## 📜 License
+## License
 Licensed under **CERN-OHL-S v2**. 
