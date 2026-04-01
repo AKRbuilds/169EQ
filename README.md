@@ -16,7 +16,7 @@ Redrawing this board took quite some time. If this project helps your studio or 
 ## One-Click Manufacturing
 Get your PCBs made with the exact specifications by using the official PCBWAY shared project link:
 
-[![Order from PCBWay](https://img.shields.io/badge/Order_from-PCBWay-blue?style=for-the-badge&logo=pcbway&logoColor=white)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_b466435a.html)
+[![Order from PCBWay](https://img.shields.io/badge/Order_from-PCBWay-blue?style=for-the-badge&logo=pcbway&logoColor=white)](https://www.pcbway.com/project/shareproject/169_EQ_API_500_Format_10a8ef74.html)
 
 
 > You can also  [Download the Latest Gerber Files (ZIP)](https://github.com/AKRbuilds/169EQ/releases/latest) to use with any manufacturer.
