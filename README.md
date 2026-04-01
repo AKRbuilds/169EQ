@@ -38,12 +38,12 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
 * 📄 [Front Panel Guide (PDF)](assets/front_panel.pdf) | 📥 [Download FPD File](assets/front_panel.fpd)
 * 📄 [Supporting Hardware (PDF)](assets/hardware.pdf)
-
+* 🔗 Front panels available here: [Frontpanels.de](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
 ---
 
 ## 🔗 Credits & Community
 * **Original Project:** Original design by **AUDIOX**.
-* **Join the Discussion:** [Build Thread on GroupDIY](https://groupdiy.com/threads/studer-169-eq-in-api-500-format.36522/)
+* **Join the Discussion:** [Build Thread on GroupDIY](https://shop.frontpanels.de/FIlter/Equalizer)
 
 ## License
 Licensed under **CERN-OHL-S v2**. 
