@@ -36,7 +36,7 @@ R5,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,560R,560R,,
 "R8, R9",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,220K,220K,,
 Others,,,,,,
 S1,4PDT F4UEE  to use LED / DPDT F2UEE no LED,1,4PDT/DPDT,4PDT/DPDT,MPBS-42H01L-F14,
-D1,805 Choose between D1 and D2 and jump JP1 accordingly,1,LED,LED,,
+D1,805 Choose between D1 and D2 and jump JP1 accordingly,1,LED,LED,150080AS75000 works great even without light pipe,
 D2,LED_D3.0mm,1,LED,LED,,
 U5,SLP3250100F - Led pipe,1,LED Pipe,LED Pipe,SLP3-250-100-F,
 VR1,PC2G16BU,1,2x22KLin,2x22KLin,OM-01-023,"available at
