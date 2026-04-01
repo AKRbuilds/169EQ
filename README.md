@@ -33,7 +33,8 @@ Get your PCBs made with the exact specifications by using the official PCBWAY sh
 
 ## 📄 Documentation
 * 📄 Launch interactive BOM [**WITH** Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_with_neutrik.html) / [**WITHOUT** 🔴 Neutrik transformer](https://htmlpreview.github.io/?https://github.com/AKRbuilds/169EQ/blob/main/assets/ibom_without_neutrik.html)
-* 📄 PCB Assembly Overview (PDF) [**WITH** Neutrik transformer](assets/Layout_with_neutrik.pdf) / [**WITHOUT** 🔴 Neutrik transformer](assets/Layout_without_neutrik.pdf) 
+* 📄 PCB Assembly Overview (PDF) [**WITH** Neutrik transformer](assets/Layout_with_neutrik.pdf) / [**WITHOUT** 🔴 Neutrik transformer](assets/Layout_without_neutrik.pdf)
+* 📄 [Bom (CSV)](assets/bom.csv)
 * 📄 [KiCad Schematics (PDF)](assets/Schematics.pdf)
 * 📄 [Original Schematics (PDF)](assets/original_schematics.pdf)
 * 📄 [Front Panel Guide (PDF)](assets/front_panel.pdf) | 📥 [Download FPD File](assets/front_panel.fpd)
